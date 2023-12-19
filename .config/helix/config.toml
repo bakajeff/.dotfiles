@@ -1,0 +1,9 @@
+theme = "rose_pine"
+
+[editor]
+mouse = false
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "bar"
+select = "underline"
